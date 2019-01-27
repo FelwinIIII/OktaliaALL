@@ -1,0 +1,5 @@
+name: OktaliaGrades
+author: Walexmine
+version: 1.0.0
+main: fr.WalexFelwin.OktaliaGrades.Main
+commands:

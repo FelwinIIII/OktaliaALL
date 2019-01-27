@@ -1,0 +1,7 @@
+name: OktaliaMascotte
+author: Walexmine
+version: 1.0
+main: fr.walexmine.OktaliaMascotte.Main
+
+commands:
+  mascotte:

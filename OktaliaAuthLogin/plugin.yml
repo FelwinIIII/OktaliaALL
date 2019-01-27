@@ -1,0 +1,9 @@
+name: OktaliaLogin
+author: Walexmine
+version: 1.0.0
+main: fr.WalexFelwin.OktaliaAuthLogin.Main
+commands:
+  login:
+  l:
+  register:
+  reg:

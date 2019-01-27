@@ -1,0 +1,9 @@
+name: OktaliaMine
+author: Walexmine
+version: 1.0
+main: fr.walexmine.OktaliaMine.Main
+
+commands:
+  minage:
+  inventaire:
+  reserve:

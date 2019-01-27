@@ -1,0 +1,7 @@
+name: OktaliaQuete
+author: Walexmine
+version: 1.0
+main: fr.walexmine.OktaliaQuete.Main
+
+commands:
+  quete:

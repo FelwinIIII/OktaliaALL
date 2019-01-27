@@ -1,0 +1,4 @@
+name: OktaliaAuth
+main: fr.walexmine.OktaliaAuth.AuthPlugin
+version: 1.0
+author: TiREX && Walexmine
