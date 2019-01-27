@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Marvin PC/Desktop/librairie/server.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Marvin PC/Desktop/librairie/OktaliaAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/Plugin/OktaliaAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Documents/ApiDev/server.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

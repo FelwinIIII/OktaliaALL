@@ -1,0 +1,8 @@
+name: OktaliaAPI
+author: Walexmine
+version: 1.0.0
+main: fr.WalexFelwin.OktaliaAPI.Bukkit.Main
+commands:
+  lag:
+  grades:
+  coins:
